@@ -1,0 +1,9 @@
+# Ignore local python cached code
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Ignore the heavy local data sets (We will deploy the script, not the raw files)
+*.csv
