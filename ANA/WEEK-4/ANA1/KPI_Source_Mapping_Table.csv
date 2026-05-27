@@ -1,0 +1,6 @@
+KPI_Category,Measure_IDs,Description,Source_Dataset
+Beds,"MHS24, MHS25, MHS156",Mental health inpatient bed utilisation,MHSDS Data_MarPerf_2026_v2.csv
+Contacts,"MHS29d, MHS30f, MH01",Community mental health service contacts,MHSDS Data_MarPerf_2026_v2.csv
+Crisis Calls,"CCR117, CCR118, CCR119, CCR120",Mental health crisis response activity,MHSDS Data_MarPerf_2026_v2.csv
+Admissions,"MHS27, MHS106, MHS106a, MHS106b",Psychiatric hospital admissions,MHSDS Data_MarPerf_2026_v2.csv
+RTT,"MHS125, MHS126, MHS131, MHS132",Referral to treatment waiting times,RTT waiting times.xlsx
